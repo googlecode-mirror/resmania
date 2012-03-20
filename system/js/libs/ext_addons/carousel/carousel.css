@@ -1,0 +1,75 @@
+/* @override http://mac/rm2/RM/system/js/libs/ext_addons/carousel/carousel.css */
+
+.carousel_container_style{
+	margin-left: 0px;
+	margin-top:5px;
+}
+
+.ux-carousel-container {
+    overflow: hidden;
+    position: relative;
+    /*
+    width: 255px;
+    height: 100px;
+    */
+    top: -25px;
+    left: 6px;
+    padding-left: 0px;
+}
+
+/* This is MSIE7.0 rule */
+*:first-child+html .ux-carousel-container{
+    margin-left: 30px;
+}
+
+.ux-carousel-slides-wrap {
+    position: relative;
+}
+
+.ux-carousel-slide {
+    float: left;
+    /*overflow: hidden;*/
+    text-align: center;
+    /* width: 85px; */
+    margin-top: 40px;
+}
+
+.ux-carousel-slide img{
+	border-width: 0;
+}
+
+.ux-carousel-nav-container{
+	height: 0;
+	z-index: 1;
+	visibility: hidden;
+}
+
+.ux-carousel-nav {
+   visibility: hidden;
+   position:relative;
+}
+
+
+.ux-carousel-nav-prev {
+    height: 24px;
+	z-index: 1;
+	visibility: visible;
+	background: url('images/prev.png') 0 24px;
+	width: 31px;
+	float: left;
+	margin-top: 30px;
+}
+
+.ux-carousel-nav-next {
+    height: 24px;
+	z-index: 1;
+	visibility: visible;
+	background: url('images/next.png') 0 24px;;
+	width: 31px;
+	float: right;
+	margin-top: 30px;
+}
+
+.ux-carousel-nav-disabled{
+	background-position: 0 0;	
+}

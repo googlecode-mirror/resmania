@@ -1,0 +1,11 @@
+div#RM_popup_msg_div {
+    width: 300px;
+    overflow: visible;
+    position: absolute;
+    z-index: 999;
+    margin-top: 65px;
+}
+
+.calendar-container {
+    height: 500px;
+}

@@ -1,0 +1,7 @@
+<IfModule mod_headers.c>
+	<FilesMatch .*\.gz.js$>
+		ForceType text/javascript
+		Header set Content-Encoding: gzip
+		Header set Cache-control: private
+	</FilesMatch>
+</IfModule>

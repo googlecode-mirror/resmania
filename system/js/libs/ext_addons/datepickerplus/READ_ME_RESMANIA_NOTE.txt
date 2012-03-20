@@ -1,0 +1,1 @@
+ line 1420 and 1388 in ext.ux.datepickerplus.js have been changed due to a bug in this version.

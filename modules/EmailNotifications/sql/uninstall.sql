@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS `rm_email_notifications`;
