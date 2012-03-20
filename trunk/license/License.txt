@@ -1,0 +1,31 @@
+ResMania Core Framework is released under the GNU/GPL version 3 License Terms.
+GPL v3 License Terms: http://www.gnu.org/licenses/gpl.html
+
+(GNU/GPLv3 License terms are also included in COPYING text file included in this
+folder)
+
+
+For clarification on ResMania licensing please contact info@resmania.com
+For all ResMania product and site terms please visit: http://resmania.com
+
+
+Not all included libraries within the ResMania Core Framework are released under
+these license terms. However these are compatible licensed open source libraries
+that include their own license terms.
+
+
+The following included libraries (distributed as part of the ResMania core) are
+non-GPL:-
+
+
+Javascript Libraries
+--------------------------------------------------------------------------------
+Shadowbox       Creative Commons License http://www.shadowbox-js.com/LICENSE
+
+
+
+PHP Libraries
+--------------------------------------------------------------------------------
+Dwoo            Modified BSD License http://dwoo.org/LICENSE
+Zend Framework  New BSD License http://framework.zend.com/license/new-bsd
+reCaptcha       Other
